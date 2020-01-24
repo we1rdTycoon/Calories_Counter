@@ -1,0 +1,57 @@
+
+
+body {
+
+    background: -webkit-linear-gradient(45deg, #EECFBA, #C5DDE8);
+    font-family: 'McLaren', cursive;
+
+}
+.wrapper{
+  border-radius: 15px;
+  background: #FAEBD7;
+  width:1300px;
+  margin: 0 auto;
+  
+}
+
+#app{
+ width: 100%;
+}
+
+.title{
+  overflow: hidden;
+  margin:30px;
+}
+
+.fdsf{
+  padding:5px 15px;
+}
+
+.input{
+background-color: transparent;
+border: 0px;
+border-bottom: 1px solid black;
+outline:0;
+transition: 0.3s;
+}
+
+.input:hover{
+  border-bottom: 2px solid black;
+
+}
+
+.sum{
+  background-color: #b1f0eb;
+  font-size:25px;
+}
+.headers{
+  background-color: #F5F5DC	;
+}
+.bodies{
+  background-color: #ededed;
+}
+
+.buttonAdd{
+  width:100%;
+}
+
